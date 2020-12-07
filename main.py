@@ -1,3 +1,4 @@
+# Author - Lyamin D. A.
 def my_superfunction():
     print('wadads')
 
