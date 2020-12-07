@@ -7,6 +7,7 @@ def main():
     print(2)
     print(3)
     my_superfunction()
+    print(1)
 
 
 if __name__ == '__main__':
